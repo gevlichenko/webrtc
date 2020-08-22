@@ -173,6 +173,7 @@ const (
 	VP8  = "VP8"
 	VP9  = "VP9"
 	H264 = "H264"
+	AV1X = "AV1X"
 )
 
 // NewRTPPCMUCodec is a helper to create a PCMU codec
