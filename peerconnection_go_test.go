@@ -20,8 +20,8 @@ import (
 
 	"github.com/pion/ice/v2"
 	"github.com/pion/transport/test"
-	"github.com/pion/webrtc/v3/internal/util"
-	"github.com/pion/webrtc/v3/pkg/rtcerr"
+	"github.com/gevlichenko/webrtc/v3/internal/util"
+	"github.com/gevlichenko/webrtc/v3/pkg/rtcerr"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -8,9 +8,9 @@ import (
 	"syscall/js"
 	"time"
 
-	"github.com/pion/webrtc/v3"
+	"github.com/gevlichenko/webrtc/v3"
 
-	"github.com/pion/webrtc/v3/examples/internal/signal"
+	"github.com/gevlichenko/webrtc/v3/examples/internal/signal"
 )
 
 const messageSize = 15

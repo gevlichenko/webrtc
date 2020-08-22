@@ -11,7 +11,7 @@ import (
 
 	"github.com/pion/quic"
 	"github.com/pion/transport/test"
-	"github.com/pion/webrtc/v3/internal/util"
+	"github.com/gevlichenko/webrtc/v3/internal/util"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -19,7 +19,7 @@ import (
 	"github.com/pion/srtp"
 	"github.com/gevlichenko/webrtc/v3/internal/mux"
 	"github.com/gevlichenko/webrtc/v3/internal/util"
-	"github.com/pion/webrtc/v3/pkg/rtcerr"
+	"github.com/gevlichenko/webrtc/v3/pkg/rtcerr"
 )
 
 // DTLSTransport allows an application access to information about the DTLS

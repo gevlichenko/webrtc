@@ -40,7 +40,7 @@ type MediaEngine struct {
 // RegisterCodec is not safe for concurrent use.
 func (m *MediaEngine) RegisterCodec(codec *RTPCodec) uint8 {
 	// TODO: dynamically generate a payload type in the range 96-127 if one wasn't provided.
-	// See https://github.com/pion/webrtc/issues/43
+	// See https://github.com/gevlichenko/webrtc/issues/43
 	m.codecs = append(m.codecs, codec)
 	return codec.PayloadType
 }

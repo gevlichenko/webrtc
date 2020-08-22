@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/pion/rtp"
-	"github.com/pion/webrtc/v3/pkg/media"
+	"github.com/gevlichenko/webrtc/v3/pkg/media"
 	"github.com/stretchr/testify/assert"
 )
 

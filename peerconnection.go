@@ -18,8 +18,8 @@ import (
 	"github.com/pion/rtcp"
 	"github.com/pion/sdp/v2"
 
-	"github.com/pion/webrtc/v3/internal/util"
-	"github.com/pion/webrtc/v3/pkg/rtcerr"
+	"github.com/gevlichenko/webrtc/v3/internal/util"
+	"github.com/gevlichenko/webrtc/v3/pkg/rtcerr"
 )
 
 // PeerConnection represents a WebRTC connection that establishes a
