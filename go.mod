@@ -1,4 +1,4 @@
-module github.com/gevlichenko/webrtc/v3
+module github.com/gevlichenko/webrtc
 
 go 1.12
 
@@ -15,6 +15,7 @@ require (
 	github.com/pion/sdp/v2 v2.4.0
 	github.com/pion/srtp v1.5.1
 	github.com/pion/transport v0.10.1
+	github.com/pion/webrtc/v3 v3.0.0-beta.3
 	github.com/sclevine/agouti v3.0.0+incompatible
 	github.com/stretchr/testify v1.6.1
 )
