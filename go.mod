@@ -1,4 +1,4 @@
-module github.com/gevlichenko/webrtc
+module github.com/gevlichenko/webrtc/v3
 
 go 1.12
 
